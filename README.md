@@ -14,5 +14,6 @@ Features for the system
 add a form with two fields description amount.
 
 LOGIN AND REGISTRATION
-	- 
+	- Create a database of users
+	- Create a frontend registration form in html
 
