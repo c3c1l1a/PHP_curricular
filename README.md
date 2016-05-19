@@ -13,7 +13,8 @@ Features for the system
 
 add a form with two fields description amount.
 
-LOGIN AND REGISTRATION
-	- Create a database of users
+Step 1: Create an index.php file
+	- Create a registration form with the following input fields; username, email, password and and confirm passoword	
+		Make the 
 	- Create a frontend registration form in html
 
